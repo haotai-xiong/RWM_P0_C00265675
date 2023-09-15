@@ -1,0 +1,7 @@
+{
+    "name": "ie.itcarlow.cubefilter",
+    "version": "0.1.0",
+    "displayName": "CubeFilter",
+    "description": "A filter that cubes numbers.",
+    "unity":  "2022.3"
+}
