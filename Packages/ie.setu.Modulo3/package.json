@@ -1,0 +1,7 @@
+{
+  "name": "ie.itcarlow.modulo3",
+  "version": "0.1.0",
+  "displayName": "Modulo3",
+  "description": "Replace each integer by itself mod 3.",
+  "unity": "2022.3"
+}
