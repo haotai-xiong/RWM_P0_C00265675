@@ -3,6 +3,7 @@ using System.Linq;
 public class Modulo3Filter
 {
     // test MODULO3
+    // change
     public static int[] Modulo3(int[] xs)
     {
         int[] result = new int[xs.Length];
